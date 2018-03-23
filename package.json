@@ -1,0 +1,19 @@
+{
+  "name": "@cedarplus/cedar-plus-wwbutton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwcheok/cedar-plus-wwbutton.git"
+  },
+  "author": "wwc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwcheok/cedar-plus-wwbutton/issues"
+  },
+  "homepage": "https://github.com/wwcheok/cedar-plus-wwbutton#readme"
+}
